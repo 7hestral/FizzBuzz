@@ -1,10 +1,10 @@
 /**
  * Solve the FizzBuzz challenge.
  */
-class FizzBuzz {
+public class FizzBuzz {
 
     public static void main(String[] args) {
-
+        // TODO: change for to while
         for (int i = 1; i < 100; i++) {
 
             // Find out which numbers divide i.
